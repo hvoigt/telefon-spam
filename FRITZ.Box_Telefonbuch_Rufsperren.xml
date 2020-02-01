@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="1" name="Rufsperren"><contact><category>0</category><person><realName>1</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">02025647585</number><number
+type="home" id="1">0898544127892</number><number type="home" id="2">0898544127893</number><number
+type="home" id="3">042198964501</number><number type="home" id="4">0308544127815</number><number
+type="home" id="5">069525478966</number><number type="home" id="6">0896213399</number><number
+type="home" id="7">0699090194</number><number type="home" id="8">06941313726</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1515239176</mod_time><uniqueid>16</uniqueid></contact><contact><category>0</category><person><realName>10</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0891247111346</number><number
+type="home" id="1">06933398020253</number><number type="home" id="2">00134635935</number><number
+type="home" id="3">041429145</number><number type="home" id="4">0089839232946</number><number
+type="home" id="5">0022033550155</number><number type="home" id="6">05326074119</number><number
+type="home" id="7">089273701313</number><number type="home" id="8">0221574757</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1543020169</mod_time><uniqueid>28</uniqueid></contact><contact><category>0</category><person><realName>11</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0033172258201</number><number
+type="home" id="1">003333182507616</number><number type="home" id="2">089558773333</number><number
+type="home" id="3">089558774242</number><number type="home" id="4">064319090199</number><number
+type="home" id="5">091113294240</number><number type="home" id="6">05241741627943</number><number
+type="home" id="7">06119996081</number><number type="home" id="8">064319090195</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1545512910</mod_time><uniqueid>29</uniqueid></contact><contact><category>0</category><person><realName>12</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">064319090194</number><number
+type="home" id="1">064312122168</number><number type="home" id="2">020183958880</number><number
+type="home" id="3">03080935153</number><number type="home" id="4">06941313727</number><number
+type="home" id="5">02215634899</number><number type="home" id="6">06995799829</number><number
+type="home" id="7">020121960850</number><number type="home" id="8">061287477837</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1545513138</mod_time><uniqueid>30</uniqueid></contact><contact><category>0</category><person><realName>13</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0897163602</number><number
+type="home" id="1">0891247111392</number><number type="home" id="2">00390699674961</number><number
+type="home" id="3">0892679346</number><number type="home" id="4">05114439520129</number><number
+type="home" id="5">04407835210</number><number type="home" id="6">0898447531</number><number
+type="home" id="7">0202773094</number><number type="home" id="8">020993911259</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1545513477</mod_time><uniqueid>31</uniqueid></contact><contact><category>0</category><person><realName>14</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">069348798134</number><number
+type="home" id="1">03047476656</number><number type="home" id="2">08100859623</number><number
+type="home" id="3">00390492109701</number><number type="home" id="4">00390118316066</number><number
+type="home" id="5">00390104206067</number><number type="home" id="6">00441297441547</number><number
+type="home" id="7">0852175187</number><number type="home" id="8">0859710448</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1549210586</mod_time><uniqueid>32</uniqueid></contact><contact><category>0</category><person><realName>15</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">00376868589</number><number
+type="home" id="1">004171755</number><number type="home" id="2">0511989566</number><number
+type="home" id="3">093562869351</number><number type="home" id="4">0031552730190</number><number
+type="home" id="5">064266666</number><number type="home" id="6">00390104211500</number><number
+type="home" id="7">00390620390866</number><number type="home" id="8">0043720103660</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1549210744</mod_time><uniqueid>33</uniqueid></contact><contact><category>0</category><person><realName>16</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0034971260474</number><number
+type="home" id="1">0896520431</number><number type="home" id="2">030499189725</number><number
+type="home" id="3">00441512530938</number><number type="home" id="4">0252125232644</number><number
+type="home" id="5">02116742031</number><number type="home" id="6">0043720349812</number><number
+type="home" id="7">0896520431</number><number type="home" id="8">08005890419</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1549211039</mod_time><uniqueid>34</uniqueid></contact><contact><category>0</category><person><realName>17</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">08005890419</number><number
+type="home" id="1">03060945505</number><number type="home" id="2">0043720102645</number><number
+type="home" id="3">044149693</number><number type="home" id="4">06927236123</number><number
+type="home" id="5">02111851579</number><number type="home" id="6">062012594184</number><number
+type="home" id="7">06990720120</number><number type="home" id="8">0044203355686843</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1552409134</mod_time><uniqueid>35</uniqueid></contact><contact><category>0</category><person><realName>18</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">015783394882</number><number
+type="home" id="1">0041414441364</number><number type="home" id="2">08006644460973</number><number
+type="home" id="3">08006644460971</number><number type="home" id="4">0402850430051</number><number
+type="home" id="5">0402850430085</number><number type="home" id="6">0402850430080</number><number
+type="home" id="7">030767640</number><number type="home" id="8">036166390251</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1552409324</mod_time><uniqueid>36</uniqueid></contact><contact><category>0</category><person><realName>19</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">03612168780</number><number
+type="home" id="1">08417943343</number><number type="home" id="2">030767333363</number><number
+type="home" id="3">015147952872</number><number type="home" id="4">089215554178</number><number
+type="home" id="5">069348757799</number><number type="home" id="6">043169087</number><number
+type="home" id="7">062213218761</number><number type="home" id="8">020113584</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1552409533</mod_time><uniqueid>37</uniqueid></contact><contact><category>0</category><person><realName>2</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">03052650318</number><number
+type="home" id="1">0125874578</number><number type="home" id="2">022156798939</number><number
+type="home" id="3">04029996580153</number><number type="home" id="4">0043720710771</number><number
+type="home" id="5">0384346660</number><number type="home" id="6">020988294294</number><number
+type="home" id="7">0735134007299</number><number type="home" id="8">032214219001</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518002536</mod_time><uniqueid>17</uniqueid></contact><contact><category>0</category><person><realName>20</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">071113584</number><number
+type="home" id="1">06912006280129</number><number type="home" id="2">061429205478</number><number
+type="home" id="3">02111851555</number><number type="home" id="4">0895412078</number><number
+type="home" id="5">0892679346</number><number type="home" id="6">043348723</number><number
+type="home" id="7">040239511900</number><number type="home" id="8">021615629247</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554652050</mod_time><uniqueid>38</uniqueid></contact><contact><category>0</category><person><realName>21</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">00366868589</number><number
+type="home" id="1">089773261</number><number type="home" id="2">0043720103042</number><number
+type="home" id="3">089772483</number><number type="home" id="4">089939622</number><number
+type="home" id="5">0587458745</number><number type="home" id="6">0222260630</number><number
+type="home" id="7">06941313725</number><number type="home" id="8">09512093970</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554652272</mod_time><uniqueid>39</uniqueid></contact><contact><category>0</category><person><realName>22</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0673334646</number><number
+type="home" id="1">0617444111</number><number type="home" id="2">018053287251</number><number
+type="home" id="3">447979664723</number><number type="home" id="4">089983624</number><number
+type="home" id="5">089982654</number><number type="home" id="6">0899334276</number><number
+type="home" id="7">0898821453</number><number type="home" id="8">08986956336</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554652475</mod_time><uniqueid>40</uniqueid></contact><contact><category>0</category><person><realName>23</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">08977588542</number><number
+type="home" id="1">089736420</number><number type="home" id="2">089621826</number><number
+type="home" id="3">089462991</number><number type="home" id="4">089426833</number><number
+type="home" id="5">08935855952</number><number type="home" id="6">08933988996</number><number
+type="home" id="7">08914377430179</number><number type="home" id="8">0891247114371</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554652657</mod_time><uniqueid>41</uniqueid></contact><contact><category>0</category><person><realName>24</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">08216660153572</number><number
+type="home" id="1">072172586664</number><number type="home" id="2">07114540222</number><number
+type="home" id="3">071133108</number><number type="home" id="4">0694005733</number><number
+type="home" id="5">069299645</number><number type="home" id="6">0692778845</number><number
+type="home" id="7">0691200608555</number><number type="home" id="8">061965739157</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554652826</mod_time><uniqueid>42</uniqueid></contact><contact><category>0</category><person><realName>25</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0531855417</number><number
+type="home" id="1">040759426103</number><number type="home" id="2">040530550081</number><number
+type="home" id="3">04025425818</number><number type="home" id="4">040103426759</number><number
+type="home" id="5">0341243381</number><number type="home" id="6">03222434534</number><number
+type="home" id="7">03222134134</number><number type="home" id="8">03222117117</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653026</mod_time><uniqueid>43</uniqueid></contact><contact><category>0</category><person><realName>26</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">03222113113</number><number
+type="home" id="1">03089398563</number><number type="home" id="2">03048936260</number><number
+type="home" id="3">0266211843</number><number type="home" id="4">0234213671</number><number
+type="home" id="5">0231142433</number><number type="home" id="6">02232154485</number><number
+type="home" id="7">021314058678</number><number type="home" id="8">0211719716</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653201</mod_time><uniqueid>44</uniqueid></contact><contact><category>0</category><person><realName>27</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0211719315</number><number
+type="home" id="1">021171865</number><number type="home" id="2">0211697334</number><number
+type="home" id="3">02115424790</number><number type="home" id="4">0211319037</number><number
+type="home" id="5">0211316405</number><number type="home" id="6">02111851569</number><number
+type="home" id="7">0203431928</number><number type="home" id="8">02032525047</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653376</mod_time><uniqueid>45</uniqueid></contact><contact><category>0</category><person><realName>28</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0202314287</number><number
+type="home" id="1">020215150</number><number type="home" id="2">017685171575</number><number
+type="home" id="3">017667760933</number><number type="home" id="4">017667749916</number><number
+type="home" id="5">01639560410</number><number type="home" id="6">01638868609</number><number
+type="home" id="7">01632037392</number><number type="home" id="8">015773783123</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653574</mod_time><uniqueid>46</uniqueid></contact><contact><category>0</category><person><realName>29</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">015255857680</number><number
+type="home" id="1">015218253861</number><number type="home" id="2">015215808625</number><number
+type="home" id="3">015215352766</number><number type="home" id="4">015214036154</number><number
+type="home" id="5">015145146378</number><number type="home" id="6">015123739965</number><number
+type="home" id="7">00447979664723</number><number type="home" id="8">0033182507686</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653765</mod_time><uniqueid>47</uniqueid></contact><contact><category>0</category><person><realName>3</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">022130060365</number><number
+type="home" id="1">003233835471</number><number type="home" id="2">0530065767</number><number
+type="home" id="3">06977019953</number><number type="home" id="4">0011129</number><number
+type="home" id="5">089921738</number><number type="home" id="6">023122613179</number><number
+type="home" id="7">032222133804</number><number type="home" id="8">022822740402</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1522422723</mod_time><uniqueid>20</uniqueid></contact><contact><category>0</category><person><realName>30</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0014940103426759</number><number
+type="home" id="1">001447979664723</number><number type="home" id="2">0971851452</number><number
+type="home" id="3">089611522</number><number type="home" id="4">089512715</number><number
+type="home" id="5">042136583000</number><number type="home" id="6">0403625552125</number><number
+type="home" id="7">001494029830865</number><number type="home" id="8">08136932237</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1554653957</mod_time><uniqueid>48</uniqueid></contact><contact><category>0</category><person><realName>31</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">051939821588</number><number
+type="home" id="1">004525365982</number><number type="home" id="2">004415618903210</number><number
+type="home" id="3">02117559990</number><number type="home" id="4">089378932</number><number
+type="home" id="5">089541415</number><number type="home" id="6">052177028981</number><number
+type="home" id="7">05114449006377</number><number type="home" id="8">02212781550</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559502245</mod_time><uniqueid>49</uniqueid></contact><contact><category>1</category><person><realName>32</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">02119355100</number><number
+type="home" id="1">0691200727577</number><number type="home" id="2">02336937015</number><number
+type="home" id="3">0302555779478</number><number type="home" id="4">051199993726</number><number
+type="home" id="5">06933398020047</number><number type="home" id="6">022035710611</number><number
+type="home" id="7">022035710612</number><number type="home" id="8">086544079013</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559502474</mod_time><uniqueid>50</uniqueid></contact><contact><category>0</category><person><realName>33</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">030255579218</number><number
+type="home" id="1">08914367311</number><number type="home" id="2">06933399090</number><number
+type="home" id="3">0228184990</number><number type="home" id="4">02024591500</number><number
+type="home" id="5">0891247117294</number><number type="home" id="6">06912007086</number><number
+type="home" id="7">03025559204</number><number type="home" id="8">04029996342</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559502658</mod_time><uniqueid>51</uniqueid></contact><contact><category>0</category><person><realName>34</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">03025559203</number><number
+type="home" id="1">001805241125</number><number type="home" id="2">06933399091</number><number
+type="home" id="3">08914379107</number><number type="home" id="4">022157279574</number><number
+type="home" id="5">08001012421</number><number type="home" id="6">069580063730</number><number
+type="home" id="7">022130060377</number><number type="home" id="8">0421696222995</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559502815</mod_time><uniqueid>52</uniqueid></contact><contact><category>0</category><person><realName>35</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">064319020710</number><number
+type="home" id="1">08007243174</number><number type="home" id="2">040356750190</number><number
+type="home" id="3">01734057234</number><number type="home" id="4">01633339457</number><number
+type="home" id="5">053659610</number><number type="home" id="6">01805241125</number><number
+type="home" id="7">00390298260574</number><number type="home" id="8">0402850430053</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559503045</mod_time><uniqueid>53</uniqueid></contact><contact><category>0</category><person><realName>36</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">08006644460974</number><number
+type="home" id="1">0691200608830</number><number type="home" id="2">0231586897232</number><number
+type="home" id="3">0460690287</number><number type="home" id="4">022039087161</number><number
+type="home" id="5">00615206173</number><number type="home" id="6">007178953182</number><number
+type="home" id="7">00968144914</number><number type="home" id="8">048225705</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1559503292</mod_time><uniqueid>54</uniqueid></contact><contact><category>0</category><person><realName>37</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">089199546</number><number
+type="home" id="1">0019716013005</number><number type="home" id="2">03083224696</number><number
+type="home" id="3">05222187483877</number><number type="home" id="4">0954130555</number><number
+type="home" id="5">0061862457832</number><number type="home" id="6">0061731849767</number><number
+type="home" id="7">023198777995</number><number type="home" id="8">00442038078003</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568051681</mod_time><uniqueid>55</uniqueid></contact><contact><category>0</category><person><realName>38</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0546355746</number><number
+type="home" id="1">0205841640</number><number type="home" id="2">0219172563</number><number
+type="home" id="3">09086912270</number><number type="home" id="4">08007246819</number><number
+type="home" id="5">0451160897600</number><number type="home" id="6">05119873735</number><number
+type="home" id="7">017655336643</number><number type="home" id="8">05119873735</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568051924</mod_time><uniqueid>57</uniqueid></contact><contact><category>0</category><person><realName>39</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0308989988</number><number
+type="home" id="1">015211949529</number><number type="home" id="2">017629813561</number><number
+type="home" id="3">0409886552</number><number type="home" id="4">062170390803</number><number
+type="home" id="5">01632296434</number><number type="home" id="6">04033177471</number><number
+type="home" id="7">0043720511133</number><number type="home" id="8">004565740224</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568052045</mod_time><uniqueid>58</uniqueid></contact><contact><category>0</category><person><realName>4</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0226350177</number><number
+type="home" id="1">091954510</number><number type="home" id="2">03419950255</number><number
+type="home" id="3">082126841930</number><number type="home" id="4">02843959514</number><number
+type="home" id="5">00442086323090</number><number type="home" id="6">002070974444</number><number
+type="home" id="7">03934696155</number><number type="home" id="8">0012127773455</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1528227858</mod_time><uniqueid>21</uniqueid></contact><contact><category>0</category><person><realName>40</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">04044499688</number><number
+type="home" id="1">052577019910</number><number type="home" id="2">089442893</number><number
+type="home" id="3">037133716588</number><number type="home" id="4">0233856982</number><number
+type="home" id="5">015219336491</number><number type="home" id="6">027140593858</number><number
+type="home" id="7">051142131122</number><number type="home" id="8">015237858750</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568052161</mod_time><uniqueid>59</uniqueid></contact><contact><category>0</category><person><realName>41</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">015215391990</number><number
+type="home" id="1">0639388873694</number><number type="home" id="2">06393888873654</number><number
+type="home" id="3">0639388873654</number><number type="home" id="4">063938887365</number><number
+type="home" id="5">063938873654</number><number type="home" id="6">0043720115904</number><number
+type="home" id="7">069897745635213</number><number type="home" id="8">0043720116215</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568052304</mod_time><uniqueid>60</uniqueid></contact><contact><category>0</category><person><realName>42</realName></person><telephony
+nid="2"><number type="home" prio="1" id="0">05118874463</number><number
+type="home" id="1">0403317747</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1568052343</mod_time><uniqueid>61</uniqueid></contact><contact><category>0</category><person><realName>5</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">040530550035</number><number
+type="home" id="1">0563215478</number><number type="home" id="2">0680683838</number><number
+type="home" id="3">0817440926</number><number type="home" id="4">003083386878</number><number
+type="home" id="5">0874563374</number><number type="home" id="6">05642987516</number><number
+type="home" id="7">0041417805072</number><number type="home" id="8">08580989952</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1533034197</mod_time><uniqueid>22</uniqueid></contact><contact><category>0</category><person><realName>6</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">0592260768</number><number
+type="home" id="1">0584000525</number><number type="home" id="2">0041562824387</number><number
+type="home" id="3">0041333354454</number><number type="home" id="4">042198964301</number><number
+type="home" id="5">03023064589</number><number type="home" id="6">0391720796</number><number
+type="home" id="7">0391720576</number><number type="home" id="8">0391724846</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1535805861</mod_time><uniqueid>23</uniqueid></contact><contact><category>0</category><person><realName>7</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">00461256589874</number><number
+type="home" id="2">043167070261</number><number type="home" id="3">043167070225</number><number
+type="home" id="4">0043720710773</number><number type="home" id="5">043167070172</number><number
+type="home" id="6">06964357406</number><number type="home" id="7">0231446610</number><number
+type="home" id="8">089365788</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1541065450</mod_time><uniqueid>24</uniqueid></contact><contact><category>0</category><person><realName>8</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">089551443</number><number
+type="home" id="1">077059122</number><number type="home" id="2">063318082335</number><number
+type="home" id="3">0899689025</number><number type="home" id="4">030994045552</number><number
+type="home" id="5">021519874876</number><number type="home" id="6">0957260990850</number><number
+type="home" id="7">089755268</number><number type="home" id="8">0032472601064</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1541327854</mod_time><uniqueid>25</uniqueid></contact><contact><category>0</category><person><realName>9</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">042198964501</number><number
+type="home" id="1">042198964301</number><number type="home" id="2">020186993777</number><number
+type="home" id="3">0541200720</number><number type="home" id="4">069771212</number><number
+type="home" id="5">020186993777</number><number type="home" id="6">069425831</number><number
+type="home" id="7">01930100</number><number type="home" id="8">0892867436015</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1541328190</mod_time><uniqueid>26</uniqueid></contact><contact><category>0</category><person><realName>9</realName></person><telephony
+nid="9"><number type="home" prio="1" id="0">030200042145</number><number
+type="home" id="1">089954687924</number><number type="home" id="2">09415861458</number><number
+type="home" id="3">021025518883</number><number type="home" id="4">069062733</number><number
+type="home" id="5">08000008164</number><number type="home" id="6">0025824875059</number><number
+type="home" id="7">0043720775086</number><number type="home" id="8">03518767797</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1541328507</mod_time><uniqueid>27</uniqueid></contact></phonebook>
+</phonebooks>
